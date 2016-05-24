@@ -1,2 +1,2 @@
 # MFStartup
-mobile
+MobileFirst startup project
